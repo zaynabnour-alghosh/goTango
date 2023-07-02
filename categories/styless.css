@@ -1,0 +1,171 @@
+
+#bbq{background-color:  rgb(207, 88, 24);}
+#bbq h1{   
+    font-family:'Source Sans Pro', sans-serif;font-size: 50px;    font-weight: lighter;
+    color:rgb(241, 197, 40)}
+#bbq tr{
+    font-family: 'Gruppo';font-size: 30px;    
+    color:white}
+.price{padding-left: 300px;}
+#bbq{
+    border-collapse: separate;
+    border-spacing: 0 15px;}
+
+#bev{background-color: burlywood;}
+#bev h1{
+    font-family:'Source Sans Pro', sans-serif;font-size: 50px;    font-weight: lighter;
+    color:rgb(23, 19, 3)}
+#bev tr{
+    font-family: 'Gruppo';font-size: 30px;    
+    color:black}
+#bigB{
+    background-color: rgb(131, 183, 69);
+}
+#bigB h1{
+    font-family:'Source Sans Pro', sans-serif;font-size: 50px;    font-weight: lighter;
+    color:rgb(228, 198, 46)}
+#bigB tr{
+    font-family: 'Gruppo';font-size: 30px;    
+    color:black}
+.desc{
+    color:white;
+    font-size: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+#brstd{background-color: rgb(255, 196, 33);}
+#brstd tr{
+    font-family:'Source Sans Pro', sans-serif;font-size: 50px;    font-weight: lighter;
+    color:black}
+#grill{background-color: rgb(207, 88, 24);}
+#grill h1{
+    font-family:'Source Sans Pro', sans-serif;font-size: 50px;    font-weight: lighter;
+    color:rgb(230, 156, 28)}
+#grill tr{
+        font-family: 'Gruppo';font-size: 30px;    
+        color:black} 
+#salad{background-color:rgb(171, 38, 21);}
+#salad h1{
+    font-family:'Source Sans Pro', sans-serif;font-size: 50px;    font-weight: lighter;
+    color:rgb(230, 156, 28)}
+#salad tr{
+        font-family: 'Gruppo';font-size: 30px;    
+        color:black}
+
+
+#pasta{background-color:rgb(204, 96, 33);}
+#pasta h1{
+    font-family:'Source Sans Pro', sans-serif;font-size: 50px;    font-weight: lighter;
+    color:rgb(222, 180, 13)}
+#pasta tr{
+        font-family: 'Gruppo';font-size: 30px;    
+        color:black}
+#kmeal{background-color:rgb(183, 34, 18);}
+#kmeal h1{
+    font-family:'Source Sans Pro', sans-serif;font-size: 50px;    font-weight: lighter;
+    color:rgb(222, 180, 13)}
+#kmeal tr{
+        font-family: 'Gruppo';font-size: 30px;    
+        color:black;
+        padding-top:5px;}
+        
+#seafood{background-color:rgb(137, 164, 40);}
+#seafood h1{
+    font-family:'Source Sans Pro', sans-serif;font-size: 50px;    font-weight: lighter;
+    color:rgb(222, 180, 13)}
+#seafood tr{
+        font-family: 'Gruppo';font-size: 30px;    
+        color:black;
+        padding-top:5px;}        
+#burger{background-color:#ffbb00;}
+#burger h1{
+    font-family:'Source Sans Pro', sans-serif;font-size: 50px;    font-weight: lighter;
+    color:rgb(152, 43, 10)}
+#burger tr{
+        font-family: 'Gruppo';font-size: 30px;    
+        color:black;
+        padding-top:5px;
+        margin-left:50px ;
+    }        
+
+#starter{background-color:rgb(137, 164, 40);}
+#starter h1{
+    font-family:'Source Sans Pro', sans-serif;font-size: 50px;    font-weight: lighter;
+    color:rgb(222, 180, 13)}
+#starter td{
+        font-family: 'Gruppo';font-size: 30px;    
+        color:black;
+        padding-top:5px;} 
+#wrap{background-color:#ffbb00;}
+#wrap h1{
+    font-family: 'Gruppo';font-size: 50px;    
+    color:rgb(152, 43, 10)}
+#wrap tr{
+        font-family: 'Gruppo';font-size: 30px;    
+        color:black;
+        padding-top:5px;
+        border-collapse: separate;
+        border-spacing: 30px;
+        } 
+        
+.contain{
+    background-color: white;
+    margin-left: 80%px;
+    margin-right: 80%px;
+}  
+.top{
+    width: 500px;
+    background-color: white;
+}
+.back{    
+    font-size: 20px;
+    color: #2b2b2b;
+    padding: 7px 50px;
+    margin-top: 7px;
+    margin-left: 240px;
+    border: 2px solid #2b2b2b;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-decoration: none;
+    
+    
+}
+.back:hover{
+    color:rgb(15, 12, 2);
+    font-weight: bold;
+    border: 4px solid black;
+    
+}
+.title{
+    
+    font-family:'Source Sans Pro', sans-serif;
+    font-size:30px;
+
+}
+.desc{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 25;}
+.box{
+    position: relative;
+    width:100%;
+    height:0;
+    padding-bottom:calc(70%*9/16);
+    padding-top: 100px;
+    
+
+}
+.wrap table{
+    padding-left: 200px;
+    justify-content: center;
+    
+}
+
+.imgx{
+    width: 100%;
+    max-width: 1450px;
+    height: auto; 
+    
+}
+table{
+    border-spacing:25px;
+}
+.price{font-size: 30px;;
+}
