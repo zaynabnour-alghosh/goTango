@@ -3,5 +3,5 @@ An application, that is similar to "GO TANGO" restaurant's menu. It lets users b
 ## Tech
 * HTML -  The standard markup language for creating Web pages
 * CSS   -  A computer language for laying out and structuring web pages
-You can view the application here:https://zaynabnour-alghosh.github.io/goTango/
+
 Go Tango's restaurant's menu:https://www.gotangolb.com/ourmenu 
